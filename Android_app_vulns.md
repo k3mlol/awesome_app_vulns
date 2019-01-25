@@ -12,6 +12,7 @@
 - [Puffin Browser RCE and Remote File Disclosure](https://d3adend.org/blog/?p=557)
 - [Cordova LaunchMyApp Plug-in Remote JavaScript Injection](https://d3adend.org/blog/?p=426)
 - [url scheme attack](https://xz.aliyun.com/t/3233)
+- [A brief history of Android deserialization vulnerabilities](https://lgtm.com/blog/android_deserialization)
 ## common vulns
 
 ### SDK vulns
