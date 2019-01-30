@@ -28,7 +28,7 @@
 - https://www.anquanke.com/post/id/87274
 - https://www.cs.bu.edu/~goldbe/teaching/HW55815/presos/droppedin.pdf
 - https://d3adend.org/blog/
-- 
+
 
 ## webview
 - [webview漏洞面面观](https://zhuanlan.zhihu.com/p/21787366)
@@ -41,6 +41,9 @@
 - https://www.jianshu.com/p/7d90a6cfb5f3
 ### Intent Spoofing
 
+### RCE
+- [Samsung Galaxy Apps Store RCE via MITM](https://www.adyta.pt/en/2019/01/29/writeup-samsung-app-store-rce-via-mitm-2/)
 
+- [RCE in DuoLingo’s TinyCards App for Android CVE-2017-16905](https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/)
 ### PPT
 - https://media.blackhat.com/bh-ad-11/Spitler/bh-ad-11-Spitler-Software_Security_Goes_Mobile_Slides.pdf
