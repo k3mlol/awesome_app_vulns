@@ -47,3 +47,8 @@
 - [RCE in DuoLingo’s TinyCards App for Android CVE-2017-16905](https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/)
 ### PPT
 - https://media.blackhat.com/bh-ad-11/Spitler/bh-ad-11-Spitler-Software_Security_Goes_Mobile_Slides.pdf
+
+### Intent scheme URL attack
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.898.3537&rep=rep1&type=pdf
+- http://jiayaoqi.com/publications/W2AI.pdf
+- https://www.mbsd.jp/Whitepaper/IntentScheme.pdf
